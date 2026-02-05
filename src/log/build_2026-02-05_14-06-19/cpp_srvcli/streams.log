@@ -1,0 +1,66 @@
+[0.015s] Invoking command in '/home/paul/ros2_ws/src/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/media/paul/nes/dev/ros2_ws_examples/install/launch_testing_examples:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_pointcloud_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_subscriber:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_service:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_server:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_guard_conditions:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/paul/ros2_ws/src/cpp_srvcli -DCMAKE_INSTALL_PREFIX=/home/paul/ros2_ws/src/install/cpp_srvcli
+[0.098s] -- The C compiler identification is GNU 11.4.0
+[0.176s] -- The CXX compiler identification is GNU 11.4.0
+[0.185s] -- Detecting C compiler ABI info
+[0.287s] -- Detecting C compiler ABI info - done
+[0.299s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.299s] -- Detecting C compile features
+[0.300s] -- Detecting C compile features - done
+[0.304s] -- Detecting CXX compiler ABI info
+[0.430s] -- Detecting CXX compiler ABI info - done
+[0.443s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.443s] -- Detecting CXX compile features
+[0.444s] -- Detecting CXX compile features - done
+[0.449s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.699s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.857s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[0.930s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.940s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.954s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.972s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.997s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.065s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.070s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.196s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.239s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.305s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.320s] -- Looking for pthread.h
+[1.431s] -- Looking for pthread.h - found
+[1.432s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.547s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.549s] -- Found Threads: TRUE  
+[1.635s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[1.795s] -- Configuring done
+[1.809s] -- Generating done
+[1.816s] -- Build files have been written to: /home/paul/ros2_ws/src/build/cpp_srvcli
+[1.832s] Invoked command in '/home/paul/ros2_ws/src/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/media/paul/nes/dev/ros2_ws_examples/install/launch_testing_examples:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_pointcloud_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_subscriber:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_service:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_server:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_guard_conditions:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/paul/ros2_ws/src/cpp_srvcli -DCMAKE_INSTALL_PREFIX=/home/paul/ros2_ws/src/install/cpp_srvcli
+[1.833s] Invoking command in '/home/paul/ros2_ws/src/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/media/paul/nes/dev/ros2_ws_examples/install/launch_testing_examples:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_pointcloud_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_subscriber:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_service:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_server:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_guard_conditions:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/paul/ros2_ws/src/build/cpp_srvcli -- -j20 -l20
+[1.913s] [ 25%] [32mBuilding CXX object CMakeFiles/server.dir/src/add_two_ints_server.cpp.o[0m
+[1.913s] [ 50%] [32mBuilding CXX object CMakeFiles/client.dir/src/add_two_ints_client.cpp.o[0m
+[6.552s] [ 75%] [32m[1mLinking CXX executable server[0m
+[6.781s] [ 75%] Built target server
+[6.840s] [100%] [32m[1mLinking CXX executable client[0m
+[7.036s] [100%] Built target client
+[7.054s] Invoked command in '/home/paul/ros2_ws/src/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/media/paul/nes/dev/ros2_ws_examples/install/launch_testing_examples:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_pointcloud_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_subscriber:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_service:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_server:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_guard_conditions:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/paul/ros2_ws/src/build/cpp_srvcli -- -j20 -l20
+[7.069s] Invoking command in '/home/paul/ros2_ws/src/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/media/paul/nes/dev/ros2_ws_examples/install/launch_testing_examples:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_pointcloud_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_subscriber:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_service:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_server:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_guard_conditions:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/paul/ros2_ws/src/build/cpp_srvcli
+[7.080s] -- Install configuration: ""
+[7.080s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/lib/cpp_srvcli/server
+[7.081s] -- Set runtime path of "/home/paul/ros2_ws/src/install/cpp_srvcli/lib/cpp_srvcli/server" to ""
+[7.081s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/lib/cpp_srvcli/client
+[7.082s] -- Set runtime path of "/home/paul/ros2_ws/src/install/cpp_srvcli/lib/cpp_srvcli/client" to ""
+[7.082s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/ament_index/resource_index/package_run_dependencies/cpp_srvcli
+[7.083s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/ament_index/resource_index/parent_prefix_path/cpp_srvcli
+[7.083s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.sh
+[7.083s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.dsv
+[7.083s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/environment/path.sh
+[7.083s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/environment/path.dsv
+[7.083s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/local_setup.bash
+[7.084s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/local_setup.sh
+[7.084s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/local_setup.zsh
+[7.084s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/local_setup.dsv
+[7.084s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/package.dsv
+[7.084s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/ament_index/resource_index/packages/cpp_srvcli
+[7.084s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig.cmake
+[7.084s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig-version.cmake
+[7.085s] -- Installing: /home/paul/ros2_ws/src/install/cpp_srvcli/share/cpp_srvcli/package.xml
+[7.087s] Invoked command in '/home/paul/ros2_ws/src/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/media/paul/nes/dev/ros2_ws_examples/install/launch_testing_examples:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_pointcloud_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_subscriber:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_service:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_publisher:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_server:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_minimal_action_client:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_guard_conditions:/media/paul/nes/dev/ros2_ws_examples/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/paul/ros2_ws/src/build/cpp_srvcli
