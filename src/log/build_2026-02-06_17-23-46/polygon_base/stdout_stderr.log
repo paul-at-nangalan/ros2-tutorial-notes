@@ -1,0 +1,28 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/area_node.dir/src/area_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable area_node[0m
+[100%] Built target area_node
+-- Install configuration: ""
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/include/polygon_base
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/include/polygon_base/polygon_base
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/include/polygon_base/polygon_base/regular_polygon.hpp
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/cmake/export_polygon_base.cmake
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/lib/polygon_base/area_node
+-- Set runtime path of "/home/paul/ros2_ws/src/install/polygon_base/lib/polygon_base/area_node" to ""
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/ament_index/resource_index/package_run_dependencies/polygon_base
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/ament_index/resource_index/parent_prefix_path/polygon_base
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/environment/ament_prefix_path.sh
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/environment/ament_prefix_path.dsv
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/environment/path.sh
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/environment/path.dsv
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/local_setup.bash
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/local_setup.sh
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/local_setup.zsh
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/local_setup.dsv
+-- Up-to-date: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/package.dsv
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/ament_index/resource_index/packages/polygon_base
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/cmake/export_polygon_baseExport.cmake
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/cmake/polygon_baseConfig.cmake
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/cmake/polygon_baseConfig-version.cmake
+-- Installing: /home/paul/ros2_ws/src/install/polygon_base/share/polygon_base/package.xml
